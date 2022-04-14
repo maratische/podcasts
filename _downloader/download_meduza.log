@@ -205,3 +205,49 @@ mp3 /Users/maratgizatullin/podcasts/video_buffer/20220414_111720_977.mp3
 mp3 /Users/maratgizatullin/podcasts/video_buffer/20220414_111723_992.mp3
 mp3 /Users/maratgizatullin/podcasts/video_buffer/20220414_111727_009.mp3
 mp3 /Users/maratgizatullin/podcasts/video_buffer/20220414_111730_028.mp3
+Meduza Thu Apr 14 12:26:43 MSK 2022
+soundString The Bell можно читать в соцсетях
+soundString Ежедневная рассылка. Мы выбираем только те новости, которые имеют значение для вас и вашего бизнеса. Выходим пять дней в неделю в 10 утра и в 8 вечера.
+soundString Оставить отзыв
+soundString The Bell © 2021, Все права защищены.
+soundString Отписаться от рассылки
+soundString MESSAGE_END
+mp3 /Users/maratgizatullin/podcasts/video_buffer/20220414_122648_978.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111723_992.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111723_992.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111723_992.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111656_839.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111656_839.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111656_839.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111702_877.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111702_877.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111702_877.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111727_009.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111727_009.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111727_009.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111638_698.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111638_698.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111638_698.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111705_894.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111705_894.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111705_894.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111730_028.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111730_028.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111730_028.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111717_961.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111717_961.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111717_961.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111711_924.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111711_924.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111711_924.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111650_793.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111650_793.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111650_793.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111641_745.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111641_745.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111641_745.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111708_908.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111708_908.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111708_908.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111714_938.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111714_938.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111714_938.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111720_977.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111720_977.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111720_977.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111644_763.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111644_763.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111644_763.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_122648_978.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_122648_978.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_122648_978.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111653_816.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111653_816.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111653_816.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111647_776.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111647_776.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111647_776.mp3
+copy /Users/maratgizatullin/podcasts/video_buffer/20220414_111659_859.mp3 -> /Users/maratgizatullin/podcasts/news/20220414_111659_859.mp3
+result /Users/maratgizatullin/podcasts/news/20220414_111659_859.mp3
