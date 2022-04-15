@@ -25,7 +25,7 @@
     <managingEditor>maratische</managingEditor>
 <language>ru-ru</language>
 <copyright></copyright>
-<lastBuildDate>Fri, 15 Apr 2022 15:27:06 +0300</lastBuildDate>
+<lastBuildDate>Fri, 15 Apr 2022 16:52:17 +0300</lastBuildDate>
 <docs>https://raw.githubusercontent.com/maratische/podcasts/main/news/news.rss</docs>
   <itunes:explicit>No</itunes:explicit>
   <itunes:owner>
@@ -33,6 +33,111 @@
   <itunes:email></itunes:email>
   </itunes:owner>
 <ttl>1440</ttl>
+      <item>
+  <title>
+  20220415_165153_552.mp3
+  </title>
+  <link>https://raw.githubusercontent.com/maratische/podcasts/main/news/</link>
+  <description>
+   </description>
+  <author>maratische</author>
+    <guid>20220415_165153_552.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/maratische/podcasts/main/news/20220415_165153_552.mp3"
+      length="36216" type="audio/mpeg"/>
+    <itunes:duration>33:07</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 15 Apr 2022 16:51:53 +0300</pubDate>
+</item>
+      <item>
+  <title>
+  20220415_165150_538.mp3
+  </title>
+  <link>https://raw.githubusercontent.com/maratische/podcasts/main/news/</link>
+  <description>
+   </description>
+  <author>maratische</author>
+    <guid>20220415_165150_538.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/maratische/podcasts/main/news/20220415_165150_538.mp3"
+      length="148152" type="audio/mpeg"/>
+    <itunes:duration>33:07</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 15 Apr 2022 16:51:50 +0300</pubDate>
+</item>
+      <item>
+  <title>
+  20220415_165147_523.mp3
+  </title>
+  <link>https://raw.githubusercontent.com/maratische/podcasts/main/news/</link>
+  <description>
+   </description>
+  <author>maratische</author>
+    <guid>20220415_165147_523.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/maratische/podcasts/main/news/20220415_165147_523.mp3"
+      length="151008" type="audio/mpeg"/>
+    <itunes:duration>33:07</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 15 Apr 2022 16:51:47 +0300</pubDate>
+</item>
+      <item>
+  <title>
+  20220415_165144_512.mp3
+  </title>
+  <link>https://raw.githubusercontent.com/maratische/podcasts/main/news/</link>
+  <description>
+   </description>
+  <author>maratische</author>
+    <guid>20220415_165144_512.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/maratische/podcasts/main/news/20220415_165144_512.mp3"
+      length="156936" type="audio/mpeg"/>
+    <itunes:duration>33:07</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 15 Apr 2022 16:51:44 +0300</pubDate>
+</item>
+      <item>
+  <title>
+  20220415_165141_499.mp3
+  </title>
+  <link>https://raw.githubusercontent.com/maratische/podcasts/main/news/</link>
+  <description>
+   </description>
+  <author>maratische</author>
+    <guid>20220415_165141_499.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/maratische/podcasts/main/news/20220415_165141_499.mp3"
+      length="149232" type="audio/mpeg"/>
+    <itunes:duration>33:07</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 15 Apr 2022 16:51:41 +0300</pubDate>
+</item>
+      <item>
+  <title>
+  20220415_165138_486.mp3
+  </title>
+  <link>https://raw.githubusercontent.com/maratische/podcasts/main/news/</link>
+  <description>
+   </description>
+  <author>maratische</author>
+    <guid>20220415_165138_486.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/maratische/podcasts/main/news/20220415_165138_486.mp3"
+      length="185616" type="audio/mpeg"/>
+    <itunes:duration>33:07</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 15 Apr 2022 16:51:38 +0300</pubDate>
+</item>
+      <item>
+  <title>
+  20220415_165135_456.mp3
+  </title>
+  <link>https://raw.githubusercontent.com/maratische/podcasts/main/news/</link>
+  <description>
+   </description>
+  <author>maratische</author>
+    <guid>20220415_165135_456.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/maratische/podcasts/main/news/20220415_165135_456.mp3"
+      length="147552" type="audio/mpeg"/>
+    <itunes:duration>33:07</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 15 Apr 2022 16:51:35 +0300</pubDate>
+</item>
       <item>
   <title>
   20220415_150808_975.mp3
